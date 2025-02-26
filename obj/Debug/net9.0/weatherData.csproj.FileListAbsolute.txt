@@ -12,3 +12,4 @@ C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\refint\weatherData.dll
 C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.pdb
 C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.genruntimeconfig.cache
 C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\ref\weatherData.dll
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.sourcelink.json

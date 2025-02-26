@@ -15,8 +15,8 @@ using (HttpClient client = new())
         if(responce.IsSuccessStatusCode)
         {
             string result = await responce.Content.ReadAsStringAsync();
-            WeatherData weatherInfo = JsonSerializer.Deserialize<WeatherData>(result)!;
-            Console.WriteLine($"Shahar nomi: {weatherInfo.name}\nTemperature: {weatherInfo.main.Temp - 273.15}\nMa'lumot: {weatherInfo.weather[0].Description}");
+            WeatherData weatherInfo = JsonSerializer.Deserialize<WeatherData>(result);
+            Console.WriteLine($"Shahar nomi: {weatherInfo.name}\nTemperature: {weatherInfo.main.Temp - 273.15f:F0}\nMa'lumot: {weatherInfo.weather[0].Description}");
 
         }
         else
