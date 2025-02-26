@@ -1,0 +1,14 @@
+C:\Users\Dilshodbek\project\weatherData\bin\Debug\net9.0\weatherData.exe
+C:\Users\Dilshodbek\project\weatherData\bin\Debug\net9.0\weatherData.deps.json
+C:\Users\Dilshodbek\project\weatherData\bin\Debug\net9.0\weatherData.runtimeconfig.json
+C:\Users\Dilshodbek\project\weatherData\bin\Debug\net9.0\weatherData.dll
+C:\Users\Dilshodbek\project\weatherData\bin\Debug\net9.0\weatherData.pdb
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.AssemblyInfoInputs.cache
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.AssemblyInfo.cs
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.csproj.CoreCompileInputs.cache
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.dll
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\refint\weatherData.dll
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.pdb
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\weatherData.genruntimeconfig.cache
+C:\Users\Dilshodbek\project\weatherData\obj\Debug\net9.0\ref\weatherData.dll
